@@ -3,6 +3,8 @@
 ## Description:
 A simple web application built with Next.js that allows users to generate random quotes using Open AI's ChatGPT and view a history of previously generated quotes.
 
+See it live on [Vercel](https://random-llm-quote-generator.vercel.app/).
+
 ![Screenshot of Quote Generator App](QuoteGeneratorScreenshot.png)
 
 ## Getting Started
