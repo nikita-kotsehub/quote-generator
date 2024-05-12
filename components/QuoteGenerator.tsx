@@ -1,9 +1,3 @@
-// if I add "use client" then my API keys is not being found
-// but I do need "use client" since I'm using useEffect
-// so gotta find a way to reconcile these two
-// let's  watch some tutorial on this tmr
-// the good news is at least my .js test is working and I get a response
-// QuoteGenerator.tsx
 import React, { useEffect, useState } from 'react';
 import { Quote } from '@/types';
 import SingleQuote from './SingleQuote';
